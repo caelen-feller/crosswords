@@ -1,0 +1,4 @@
+dingbat;60
+dingbats;60
+hermetic;60
+dinkus;65
